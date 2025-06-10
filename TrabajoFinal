@@ -1,22 +1,36 @@
-  "\n"ELIZABETH VASQUEZ GOMEZ  "\n",
-IDEA ALQUIMICA : TEJIENDO EL FUTURO CON PROMP INGINEERING
-INTELIGENCIA ARTIFICIAL GENERACION DE PROMPS
-Comisión 84185
-ACTAS REUNIONES AL INSTANTE
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "f291e06b-8057-4154-bb4b-14d7f5ea3cc7",
+   "metadata": {},
+   "source": [
+    "                                                    Trabajo Final\n",
+    "                                            \"TEJIENDO EL FUTURO CON PROMP INGINEERING\"\n",
+    "\n",
 
-PRESENTACION DEL PROBLEMA:
 
+
+                                                       "\n"ELIZABETH VASQUEZ GOMEZ  "\n",
+                                               IDEA ALQUIMICA : TEJIENDO EL FUTURO CON PROMP INGINEERING "\n"
+                                                    INTELIGENCIA ARTIFICIAL GENERACION DE PROMPS "\n"
+                                                                Comisión 84185"\n"
+                                                          ACTAS REUNIONES AL INSTANTE"\n"
+
+                                                           "\n"PRESENTACION DEL PROBLEMA:"\n"
+"\n"
 Dentro de un proyecto de implementación de software se tienen múltiples reuniones, técnicas, tácticas y de planeación donde se toman decisiones diariamente, están se conversan, pero dadas las múltiples ocupaciones que tienen las personas nadie cuenta con el tiempo ni con la capacidad de generar un informe de la reunión con los pendientes y cada uno de sus responsables.
 Se desea generar a través de herramientas de inteligencia artificial , una solución donde se pueda ingresar información clave de la reunión y este genere un informe estructurado y oficial sobre los temas de la reunión, decisiones, Compomisos
-Con los compromisos ingresados se generara una imagen infográfica como parte del acta
-Datos de entrada:
-•	Proyecto : 
-•	Nombre Reunión:
-•	Fecha:
-•	Decisiones
-•	Compomisos
-
-Salida:
+Con los compromisos ingresados se generara una imagen infográfica como parte del acta"\n"
+"\n"
+Datos de entrada:"\n"
+  •	Proyecto : 
+  •	Nombre Reunión:
+  •	Fecha:
+  •	Decisiones
+  •	Compomisos
+"\n"
+Salida:"\n"
 •	Acta en texto
 •	Imagen infográfica con  resumen de la reunión de acuerdo a los datos dados y los compromisos
 
