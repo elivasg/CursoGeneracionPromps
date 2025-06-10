@@ -1,1 +1,35 @@
-123
+ELIZABETH VASQUEZ GOMEZ
+IDEA ALQUIMICA : TEJIENDO EL FUTURO CON PROMP INGINEERING
+INTELIGENCIA ARTIFICIAL GENERACION DE PROMPS
+Comisión 84185
+ACTAS REUNIONES AL INSTANTE
+
+PRESENTACION DEL PROBLEMA:
+
+Dentro de un proyecto de implementación de software se tienen múltiples reuniones, técnicas, tácticas y de planeación donde se toman decisiones diariamente, están se conversan, pero dadas las múltiples ocupaciones que tienen las personas nadie cuenta con el tiempo ni con la capacidad de generar un informe de la reunión con los pendientes y cada uno de sus responsables.
+Se desea generar a través de herramientas de inteligencia artificial , una solución donde se pueda ingresar información clave de la reunión y este genere un informe estructurado y oficial sobre los temas de la reunión, decisiones, Compomisos
+Con los compromisos ingresados se generara una imagen infográfica como parte del acta
+Datos de entrada:
+•	Proyecto : 
+•	Nombre Reunión:
+•	Fecha:
+•	Decisiones
+•	Compomisos
+
+Salida:
+•	Acta en texto
+•	Imagen infográfica con  resumen de la reunión de acuerdo a los datos dados y los compromisos
+
+Importancia de desarrollar la solución : 
+Esta actividad permitirá tener a la mano, la información de todas las decisiones y acuerdos a los que se lleguen en las reuniones, para que se puedan guardar y cualquier persona consultarlo, eliminando  reprocesos y apoyando la gestión del conocimiento del equipo, sin tener que asignar esta tarea tediosa y de poca acogida a las personas del equipo.
+
+Desarrollo de la propuesta a abordar:
+Los modelos IA que se desean relacionar la desarrollo de esta propuesta son: 
+Texto a texto : Al momento de ingresar los datos de entrada sobre la reunión . Chat GPT 3.5 ( “Toma texto de entrada y genera texto como salida”) ó gemini
+Texto a Imagen: Para generar el resumen y la infografía de los compromisos.
+
+Viabilidad técnica del proyecto
+El proyecto es viable, ya que con herramientas como OPEN IA y la adquisición de una Open Key , se puede usar el modelo GPT 3.5 para el texto a texto. En caso de no contar con el presupuesto, se explorario Gemini.
+Para la generación de la imagen desea utilizar Dall-e 
+
+
